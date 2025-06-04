@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import ExtraInfo from "../Comonents/ExtraInfo";
+import ContactSVG from "../assets/undraw_contact-us_kcoa.svg";
 
 const Contact = () => {
   useEffect(() => {
@@ -15,7 +16,7 @@ const Contact = () => {
       <div className="w-full h-auto block md:flex gap-x-6 bg-gray-300 mt-12 pb-4">
         <div className="w-1/2">
           <img
-            src="/src/assets/undraw_contact-us_kcoa.svg"
+            src={ContactSVG}
             alt=""
             className="w-full object-cover py-12"
           />
