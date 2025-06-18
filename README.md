@@ -6,7 +6,7 @@ Welcome to **TomatoKing**, a modern blogsite frontend built with React, Tailwind
 
 👉 [Visit TomatoKing](https://tomato-king.vercel.app/)
 
-![TomatoKing UI Screenshot](https://i.ibb.co/m5ybZ26/home-Screenshot.png)
+![TomatoKing Screenshot](./assets/homeScreenshot.png)
 
 ---
 
